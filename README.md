@@ -6,6 +6,8 @@ Blocked by https://github.com/felixfbecker/dom-to-svg/issues/140.
 
 Or potentially https://github.com/fathyb/html2svg.
 
+Or https://github.com/zumerlab/snapdom.
+
 ## Stuff I've tried
 
 - https://github.com/felixfbecker/svg-screenshots very promising
